@@ -12,3 +12,10 @@ The goal was to utilize 3D printing technology to create a versatile, adaptable,
 * Simple and easy donning and doffing
 * Minimum assembly required
 * Comfortable fit
+
+## Results
+### Hexagon Band
+
+### Wristband Closure
+
+### Sensor Housing
