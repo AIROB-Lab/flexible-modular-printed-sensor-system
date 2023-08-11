@@ -17,16 +17,19 @@ In the scope of this work previous scientific work has been investigated includi
 
 ## Results
 ![](media/media1.jpg)
-*Picture of the closed sensorband with sensors attached**
+
+*Picture of the closed sensorband with sensors attached*
 
 ### Hexagon Band
 ![Image showing the hexagon band](media/media3.jpg)
+
 *CAD construction of hexagon structured band*
 
 Due to the requirements, choosing TPU as the base material was the most suitable option. Furthermore, the hexagonal structure was selected based on the requirements, as it was best suited to withstand the forces acting on the band. To adjust the band to various anatomical structures with different diameters, different band lengths were used. As the overall length was limited by the 3D printer, the max- imum printing length of the printer was divided by four to serve as the base length for the band. This base length was then mirrored and multiplied to create the band for the sensor holder. By using this method, different band lengths could be easily adjusted to fit a wide range of anatomical structures.
 
 ### Wristband Closure
 ![](media/media4.png)
+
 *Technical illustration of the different types of Mounting Brackets for (left to right) vertically connecting two bands, connecting four bands or 2 row end-to-end at the corner of each band end, horizontal connecting of two bands*
 
 Various Mounting brackets/ holders were designed to fulfill different functions and had different geometric arrangements. Differ- ent Holders were needed to fulfill following functions (see also Figure 2):
@@ -38,9 +41,11 @@ tween the bands.
 
 ### Sensor Housing
 ![Image showing Sensor Housing](media/media5.png)
+
 *CAD Construction of Sensor Holder and the Sensor*
 
 ![Image showing assembled wristband](media/media2.jpg)
+
 *Picture of the open Sensorband with Sensors attached*
 
 Unlike the band and the holder, the Sensor Holder is subject to minimal forces during movement, and therefore, no special elasticity is required. The main requirement is that the sensor remains stable in its anchorage throughout the process. Therefore PLA is used for the Sensor Holder.
