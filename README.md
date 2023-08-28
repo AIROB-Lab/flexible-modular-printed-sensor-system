@@ -50,7 +50,7 @@ Various Mounting brackets/ holders were designed to fulfill different functions 
 Unlike the band and the holder, the Sensor Holder is subject to minimal forces during movement, and therefore, no special elasticity is required. The main requirement is that the sensor remains stable in its anchorage throughout the process. Therefore PLA is used for the Sensor Holder.
 
 # Printer and Settings
-The Raise3D Pro3 was used for all prints. PLA prints (Sensor Housing, Wristband Closure), as well as TPU prints (Hexagon Band, Wristband Closure), were printed with standard settings for the original Filament libraries for Ideamaker [Ideamaker](https://www.ideamaker.io/ofpMaterials.html)
+The Raise3D Pro3 was used for all prints. PLA prints (Sensor Housing, Wristband Closure), as well as TPU prints (Hexagon Band, Wristband Closure), were printed with standard settings for the [original filament libraries](https://www.ideamaker.io/ofpMaterials.html) for Ideamaker.
 
 # References
 [1] Trigno Avanti Technical Specifications. https://delsys.com/trigno-avanti/#techspecs. Accessed on June 3, 2023. Delsys Inc., Accessed 2023.
