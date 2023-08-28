@@ -32,7 +32,7 @@ Due to the requirements, TPU was chosen as the base material was the most suitab
 
 *Technical illustration of the different types of Mounting Brackets for (left to right) vertically connecting two bands, connecting four bands or two rows end-to-end at the corner of each band end, and horizontal connecting of two bands*
 
-Various Mounting brackets/ holders were designed to fulfill different functions and had other geometric arrangements. Differ- ent Holders were needed to fulfill the following functions (see also Figure 2):
+Various Mounting brackets/ holders were designed to fulfill different functions and had other geometric arrangements. Different Holders were needed to fulfill the following functions (see also Figure 2):
 1. Housing-band attachment: To attach the Sensor Housing to the band.
 2. Extending the band length: Holders that serve to extend the band between the bands.
 3. Connect Sensor Rows: Holders that vertically connect a possible second row of sensors on a separate band.
@@ -48,6 +48,9 @@ Various Mounting brackets/ holders were designed to fulfill different functions 
 *Picture of the open Sensorband with Sensors attached*
 
 Unlike the band and the holder, the Sensor Holder is subject to minimal forces during movement, and therefore, no special elasticity is required. The main requirement is that the sensor remains stable in its anchorage throughout the process. Therefore PLA is used for the Sensor Holder.
+
+# Printer and Settings
+The Raise3D Pro3 was used for all prints. PLA prints (Sensor Housing, Wristband Closure), as well as TPU prints (Hexagon Band, Wristband Closure), were printed with standard settings for the original Filament libraries for Ideamaker [Ideamaker](https://www.ideamaker.io/ofpMaterials.html)
 
 # References
 [1] Trigno Avanti Technical Specifications. https://delsys.com/trigno-avanti/#techspecs. Accessed on June 3, 2023. Delsys Inc., Accessed 2023.
