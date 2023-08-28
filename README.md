@@ -13,7 +13,7 @@ The goal was to utilize 3D printing technology to create a versatile, adaptable 
 * Minimum assembly required
 * Comfortable fit
 
-In the scope of this work, previous scientific work has been investigated, including [2], [3]. While both solutions have advantages for specific use cases, none could satisfy all stated objectives.
+In the scope of this work, previous scientific work has been investigated, including [2][3]. While both solutions have advantages for specific use cases, none could satisfy all stated objectives.
 
 ## Results
 ![](media/media1.jpg)
@@ -25,7 +25,7 @@ In the scope of this work, previous scientific work has been investigated, inclu
 
 *CAD construction of hexagon structured band*
 
-Due to the requirements, TPU was chosen as the base material was the most suitable option. Furthermore, the hexagonal structure was selected based on the requirements, as it was best suited to withstand the forces acting on the band. Different band lengths were used to adjust the band to various anatomical structures with different diameters. As the 3D printer limited the overall length, the maximum printing length of the printer was divided by four to serve as the base length for the band. This base length was then mirrored and multiplied to create the band for the sensor holder. Using this method, different band lengths could be easily adjusted to fit a wide range of anatomical structures.
+Due to the requirements, TPU was chosen as the base material was the most suitable option. Furthermore, the hexagonal structure was selected based on the requirements, as it was best suited to withstand the forces acting on the band. Different band lengths were used to adjust the band to various anatomical structures with different diameters. As the 3D printer limited the overall length, the maximum printing length of the printer was divided by four to serve as the base length for the band. This base length was then mirrored and multiplied to create the band for the sensor holder. This method could easily adjust different band lengths to fit a wide range of anatomical structures.
 
 ### Wristband Closure
 ![](media/media4.png)
@@ -47,7 +47,7 @@ Various Mounting brackets/ holders were designed to fulfill different functions 
 
 *Picture of the open Sensorband with Sensors attached*
 
-Unlike the band and the holder, the Sensor Holder is subject to minimal forces during movement, and therefore, no special elasticity is required. The main requirement is that the sensor remains stable in its anchorage throughout the process. Therefore PLA is used for the Sensor Holder.
+Unlike the band and the holder, the Sensor Holder is subject to minimal forces during movement, and therefore, no special elasticity is required. The main requirement is that the sensor remains stable in its anchorage throughout the process. Therefore, PLA is used for the Sensor Housing.
 
 # Printer and Settings
 The Raise3D Pro3 was used for all prints. PLA prints (Sensor Housing, Wristband Closure), as well as TPU prints (Hexagon Band, Wristband Closure), were printed with standard settings and the [original filament libraries](https://www.ideamaker.io/ofpMaterials.html) for Ideamaker.
